@@ -1,0 +1,1 @@
+Bonjour tout le monde. Ceci est un exemple de fichier texte. Nous apprenons à calculer le TF-IDF.

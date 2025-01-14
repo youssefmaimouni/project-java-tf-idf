@@ -1,0 +1,1 @@
+Le TF-IDF est une méthode très utilisée dans le domaine du traitement du langage naturel. Ce fichier est un autre exemple.

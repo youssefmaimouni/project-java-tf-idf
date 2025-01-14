@@ -1,0 +1,1 @@
+Les fichiers texte sont très utiles pour stocker des données. Nous allons calculer la pondération TF-IDF à partir de ces fichiers.
